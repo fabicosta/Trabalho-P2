@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">EstudosFB</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Senha (opcional)</string>
+    <string name="action_sign_in">Entrar</string>
+    <string name="action_sign_in_short">Entrar</string>
+    <string name="error_invalid_email">Este email é inválido</string>
+    <string name="error_invalid_password">Senha muito pequena</string>
+    <string name="error_incorrect_password">Usuário ou senha incorreta</string>
+    <string name="error_field_required">Este campo é obrigatório</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="progresso">Progresso</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="sair">Sair</string>
+    <string-array name="lstCursos">
+        <item>Analise de Sistemas</item>
+        <item>Ciência da Computação</item>
+    </string-array>
+    <string-array name="lstAula">
+        <item>Aula 1</item>
+        <item>Aula 2</item>
+    </string-array>
+</resources>
